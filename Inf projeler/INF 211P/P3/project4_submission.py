@@ -4,9 +4,9 @@ Make sure it can get imported, and no syntax errors in your code for any
 credit.
 '''
 
-my_name = "Furkan Cayci"
-my_id = "12345678"
-my_email = "furkancayci@gtu.edu.tr"
+my_name = "Student Name"
+my_id = "00000000"
+my_email = "student@gtu.edu.tr"
 
 
 class Person:
